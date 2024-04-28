@@ -5,7 +5,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 from skorch import NeuralNetClassifier
 
 from main import MyModule, load_data
-
+# opensource
 if __name__ == "__main__":
     sampling_rate = 360
 

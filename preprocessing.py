@@ -7,7 +7,7 @@ import numpy as np
 import scipy.signal as sg
 import wfdb
 
-PATH = Path("dataset")
+PATH = Path("dataset/physionet.org/files/mitdb/1.0.0/")
 sampling_rate = 360
 
 # non-beat labels
